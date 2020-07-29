@@ -1,0 +1,12 @@
+name: Course_Project_Shiny_Application
+title: Course_Project_Shiny_Application
+username:
+account: assefa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2621626
+bundleId: 3447620
+url: https://assefa.shinyapps.io/Course_Project_Shiny_Application/
+when: 1595970003.95692
+asMultiple: FALSE
+asStatic: FALSE
